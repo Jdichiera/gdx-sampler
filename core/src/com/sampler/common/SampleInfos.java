@@ -29,7 +29,9 @@ public class SampleInfos {
             AssetManagerSample.SAMPLE_INFO,
             TextureAtlasSample.SAMPLE_INFO,
             CustomActorSample.SAMPLE_INFO,
-            ActionsSample.SAMPLE_INFO
+            ActionsSample.SAMPLE_INFO,
+            TableSample.SAMPLE_INFO,
+            SkinSample.SAMPLE_INFO
     );
 
     public static List<String> getSampleNames() {
